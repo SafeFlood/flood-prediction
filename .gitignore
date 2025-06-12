@@ -4,4 +4,5 @@ filejson/
 clean_data_full_features.ipynb
 Clean_Dataset_of_Flood_Mitigation_(Pradana).ipynb
 cowrie.json.2025-05-20
-fridgeddata
+fridgeddata.db
+.gitignore
